@@ -6,7 +6,8 @@
 
 <h2> Certifications </h2>
 
-- [CompTIA Security+](https://www.credly.com/earner/earned/badge/c1f3f6fa-5513-4fe9-8af8-d64f852721e0) 
+- [CompTIA Security+](https://www.credly.com/earner/earned/badge/c1f3f6fa-5513-4fe9-8af8-d64f852721e0)
+- [ISC2 Candidate](https://www.credly.com/badges/6061e17c-83b8-4447-804c-95f8841fa573)
 
 <h2>Cybersecurity Projects: </h2>
 - AWS Cybersecurity Homelab
