@@ -10,7 +10,7 @@
 - [ISC2 Candidate](https://www.credly.com/badges/6061e17c-83b8-4447-804c-95f8841fa573)
 
 <h2>Cybersecurity Projects: </h2>
-- AWS Cybersecurity Homelab
+- Active Directory Homelab
 
 
 <h2> 🤳 Connect with me:</h2>
